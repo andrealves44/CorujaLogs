@@ -1,1 +1,69 @@
-# CorujaLogs
+# CorujaLog´s 3ºSemestre
+# Índice
+
+* [Projeto](#projeto-template)
+* [Equipe](#equipe)
+* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Sprints](#Sprints)
+* [Backlog do produto](#Backlog-do-produto)
+* [Relatório](#Relatório)
+
+# Projeto (API) 
+Desenvolver um Dashboard interativo para analise de dados integrada em parceria com a ONSV(Observatório Nacional de Segurança Viaria).
+
+
+# Equipe
+|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner | André Luiz Raymundo Alves | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andre-alves-a20a691bb/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AndreAlves44)  |
+| Scrum Master | Lara Vitória de Almeida Fernandes |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lara-vit%C3%B3ria-almeida-fernandes-83599b2a4/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LaraVF) |
+|Team Member| Anny Spadari Corsi Ohashi
+|Team Member| Fabrina Camargo dos Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabrina-camargo-385703302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/camargofabrina)  |
+|Team Member| Felipe Pereira Costa da Silva | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-pereira-186536269/?trk=opento_sprofile_topcard) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Felipe-4500)|
+|Team Member| Nubia Rosa Pereira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nubia-rosa-pereira-023667285/)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://www.linkedin.com/in/nubia-rosa-pereira-023667285/)|
+# Objetivo do Projeto
+O objetivo do projeto é analisar de forma integrada bases de dados relevantes, como PRF (Polícia Rodoviária Federal), RENAEST (Registro Nacional de Acidentes e Estatísticas de Trânsito) e DATASUS (Departamento de Informática do SUS), transformando essas informações em indicadores estratégicos de fácil compreensão. A partir desse tratamento de dados, será desenvolvido um dashboard interativo, capaz de apresentar os resultados de forma visual, dinâmica e intuitiva, permitindo explorar tendências, identificar padrões e destacar os pontos mais críticos relacionados à segurança viária.
+
+
+
+## Tecnologias Utilizadas
+
+ ### Tecnologias Específicas/Apoio
+* [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+* [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+* [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
+  
+ ### Tecnologias da Informação
+* [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+* [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+* [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)
+* [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-f65314)](#)
+
+# Backlog do produto
+
+# Relatório
+
+## Sprint 1
+
+
+
+## Sprint 2
+
+      
+## Sprint 3
+
+      
+## Sprint 4
+
+      
+
+
+
+# Sprints
+
+Sprint | Previsão | Status| Histórico|
+|------|--------|------|--------|
+|01 | 29/09/2025 |Á Fazer| [MVP]| 
+|02|  20/10/2025 |Á Fazer|[MVP]| 
+|03| 17/11/2025  |Á Fazer|[MVP] |
+|Feira de Soluções| 04/12/2025 ||[MVP]| 
