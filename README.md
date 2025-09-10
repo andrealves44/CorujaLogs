@@ -9,7 +9,7 @@
 * [Relatório](#Relatório)
 
 # Projeto (API) 
-Desenvolver um Dashboard interativo para analise de dados integrada em parceria com a ONSV(Observatório Nacional de Segurança Viaria).
+Desenvolver um Dashboard interativo para Análise Integrada de Segurança Viária do Brasil em parceria com a ONSV(Observatório Nacional de Segurança Viaria).
 
 
 # Equipe
