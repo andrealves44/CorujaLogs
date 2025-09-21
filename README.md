@@ -40,7 +40,9 @@ O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada base
 * [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)
 * [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-f65314)](#)
 
-# Backlog do produto
+# Backlog do Produto
+<img width="781" height="630" alt="sprint" src="https://github.com/user-attachments/assets/1f3b45db-ec81-4195-b511-d238ad1fcbe0" />
+
 
 # Relatório
 
