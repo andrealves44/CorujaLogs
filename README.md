@@ -45,29 +45,29 @@ O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada base
 # Relatório
 
 ## Sprint 1
-- []Esboço do Front End;
-- [] Arquivo CSV com os dados dos anos 2015 a 2024 ;
-- [] Arquivo CSV com todos os arquivos combinados;
-- [] Colunas de interesse visíveis;
-- [] Página do GitHub com detalhes do projeto;
-- [] Correção de dados conforme comentários do cliente;
-- [] Revisão e Ajustes.
+- [ ] Esboço do Front End;
+- [ ] Arquivo CSV com os dados dos anos 2015 a 2024 ;
+- [ ] Arquivo CSV com todos os arquivos combinados;
+- [ ] Colunas de interesse visíveis;
+- [ ] Página do GitHub com detalhes do projeto;
+- [ ] Correção de dados conforme comentários do cliente;
+- [ ] Revisão e Ajustes.
 
 
 ## Sprint 2
-- [] Análise de dados do Python para o Power BI;
-- [] Visualização de Sinistros dos anos 2015 a 2024;
-- [] Dashboard responsivo atendendo todos os dispositivos;
-- [] Correção de dados conforme comentários do cliente;
-- [] Revisão e Ajustes.
+- [ ] Análise de dados do Python para o Power BI;
+- [ ] Visualização de Sinistros dos anos 2015 a 2024;
+- [ ] Dashboard responsivo atendendo todos os dispositivos;
+- [ ] Correção de dados conforme comentários do cliente;
+- [ ] Revisão e Ajustes.
       
 ## Sprint 3
-- [] Correção de dados conforme comentários do cliente;
-- [] Entrega do protótipo final do projeto;
-- [] Escolha cores e fontes;
-- [] Teste e revise;
-- [] Criação do vídeo;
-- [] Finalize e aprovação.
+- [ ] Correção de dados conforme comentários do cliente;
+- [ ] Entrega do protótipo final do projeto;
+- [ ] Escolha cores e fontes;
+- [ ] Teste e revise;
+- [ ] Criação do vídeo;
+- [ ] Finalize e aprovação.
 
 # Sprints
 
