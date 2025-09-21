@@ -23,7 +23,7 @@ Desenvolver um Dashboard interativo para Análise Integrada de Segurança Viári
 |Team Member| Nubia Rosa Pereira | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nubia-rosa-pereira-023667285/)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://www.linkedin.com/in/nubia-rosa-pereira-023667285/)|
 
 # Objetivo do Projeto
-O objetivo do projeto é analisar de forma integrada bases de dados relevantes, como PRF (Polícia Rodoviária Federal), RENAEST (Registro Nacional de Acidentes e Estatísticas de Trânsito) e DATASUS (Departamento de Informática do SUS), transformando essas informações em indicadores estratégicos de fácil compreensão. A partir desse tratamento de dados, será desenvolvido um dashboard interativo, capaz de apresentar os resultados de forma visual, dinâmica e intuitiva, permitindo explorar tendências, identificar padrões e destacar os pontos mais críticos relacionados à segurança viária.
+O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada bases de dados relevantes, como PRF (Polícia Rodoviária Federal), RENAEST (Registro Nacional de Acidentes e Estatísticas de Trânsito) e DATASUS (Departamento de Informática do SUS), transformando essas informações em indicadores estratégicos de fácil compreensão. A partir desse tratamento de dados, será desenvolvido um dashboard interativo, capaz de apresentar os resultados de forma visual, dinâmica e intuitiva, permitindo explorar tendências, identificar padrões e destacar os pontos mais críticos relacionados à segurança viária.
 
 
 
@@ -45,12 +45,29 @@ O objetivo do projeto é analisar de forma integrada bases de dados relevantes, 
 # Relatório
 
 ## Sprint 1
+- [x]Esboço do Front End;
+- [x] Arquivo CSV com os dados dos anos 2015 a 2024 ;
+- [x] Arquivo CSV com todos os arquivos combinados;
+- [x] Colunas de interesse visíveis;
+- [x] Página do GitHub com detalhes do projeto;
+- [x] Correção de dados conforme comentários do cliente;
+- [x] Revisão e Ajustes.
 
 
 ## Sprint 2
-
+- [x] Análise de dados do Python para o Power BI;
+- [x] Visualização de Sinistros dos anos 2015 a 2024;
+- [x] Dashboard responsivo atendendo todos os dispositivos;
+- [x] Correção de dados conforme comentários do cliente;
+- [x] Revisão e Ajustes.
       
 ## Sprint 3
+- [x] Correção de dados conforme comentários do cliente;
+- [x] Entrega do protótipo final do projeto;
+- [x] Escolha cores e fontes;
+- [x] Teste e revise;
+- [x] Criação do vídeo;
+- [x] Finalize e aprovação.
 
       
 
