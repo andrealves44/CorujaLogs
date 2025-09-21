@@ -47,18 +47,12 @@ O objetivo do projeto é analisar de forma integrada bases de dados relevantes, 
 ## Sprint 1
 
 
-
 ## Sprint 2
 
       
 ## Sprint 3
 
       
-## Sprint 4
-
-      
-
-
 
 # Sprints
 
@@ -67,4 +61,4 @@ Sprint | Previsão | Status| Histórico|
 |01 | 29/09/2025 |Á Fazer| [MVP]| 
 |02|  20/10/2025 |Á Fazer|[MVP]| 
 |03| 17/11/2025  |Á Fazer|[MVP] |
-|Feira de Soluções| 04/12/2025 ||[MVP]| 
+|Feira de Soluções|04/12/2025|Á Fazer|[MVP] | 
