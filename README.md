@@ -41,7 +41,7 @@ O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada base
 * [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-f65314)](#)
 
 # Backlog do Produto
-<img width="781" height="630" alt="sprint" src="https://github.com/user-attachments/assets/1f3b45db-ec81-4195-b511-d238ad1fcbe0" />
+<img width="889" height="698" alt="backlog" src="https://github.com/user-attachments/assets/3447c9d4-effd-4eca-8cab-913246fba073" />
 
 
 # Relatório
