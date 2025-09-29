@@ -41,13 +41,11 @@ O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada base
 * [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-f65314)](#)
 
 # Backlog do Produto
-<img width="889" height="698" alt="backlog" src="https://github.com/user-attachments/assets/3447c9d4-effd-4eca-8cab-913246fba073" />
-
+<img width="863" height="579" alt="BACKLOG" src="https://github.com/user-attachments/assets/f88aeb72-c5eb-43e7-bb2d-540c5946fb10" />
 
 # Relatório
 
 ## Sprint 1
-- [ ] Esboço do Front End;
 - [ ] Arquivo CSV com os dados dos anos 2015 a 2024 ;
 - [ ] Arquivo CSV com todos os arquivos combinados;
 - [ ] Colunas de interesse visíveis;
