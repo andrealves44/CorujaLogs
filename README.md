@@ -46,10 +46,10 @@ O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada base
 # Relatório
 
 ## Sprint 1
-- [ ] Arquivo CSV com os dados dos anos 2015 a 2024 ;
-- [ ] Página do GitHub com detalhes do projeto;
-- [ ] Correção de dados conforme comentários do cliente;
-- [ ] Revisão e Ajustes.
+- [x] Arquivo CSV com os dados dos anos 2015 a 2024 ;
+- [x] Página do GitHub com detalhes do projeto;
+- [x] Correção de dados conforme comentários do cliente;
+- [x] Revisão e Ajustes.
 
 
 ## Sprint 2
