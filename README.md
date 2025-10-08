@@ -76,3 +76,6 @@ Sprint | Previsão | Status| Histórico|
 |02|  20/10/2025 |Á Fazer|[MVP]| 
 |03| 17/11/2025  |Á Fazer|[MVP] |
 |Feira de Soluções|04/12/2025|Á Fazer|[MVP] | 
+
+<img width="764" height="691" alt="backlog" src=![Foto1](https://github.com/user-attachments/assets/a10ae2f6-b1ca-4393-a1a4-7ab7d3b875fc)
+<img width="764" height="691" alt="backlog" src=![foto 2](https://github.com/user-attachments/assets/d23688ab-ba1f-4f91-9098-4e93a372bd67)
