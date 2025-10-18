@@ -79,3 +79,6 @@ Sprint | Previsão | Status| Histórico|
 |03| 17/11/2025  |Á Fazer|[MVP] |
 |Feira de Soluções|04/12/2025|Á Fazer|[MVP] | 
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jcTXHfPgMjOVytJ48wQAtaoeu9l7Vjq_)
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SFOYc_07NxyakHX9TYPPjLfvGQ5b7-gm)
