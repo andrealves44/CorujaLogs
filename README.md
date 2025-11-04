@@ -56,11 +56,11 @@ O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada base
 
 
 ## Sprint 2
-- [ ] Análise de dados do Python para o Power BI;
-- [ ] Visualização de Sinistros dos anos 2015 a 2024;
-- [ ] Dashboard responsivo atendendo todos os dispositivos;
-- [ ] Correção de dados conforme comentários do cliente;
-- [ ] Revisão e Ajustes.
+- [x] Análise de dados do Python para o Power BI;
+- [x] Visualização de Sinistros dos anos 2015 a 2024;
+- [x] Dashboard responsivo atendendo todos os dispositivos;
+- [x] Correção de dados conforme comentários do cliente;
+- [x] Revisão e Ajustes.
       
 ## Sprint 3
 - [ ] Correção de dados conforme comentários do cliente;
