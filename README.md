@@ -75,5 +75,5 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 30/09/2025 |Á Fazer| [MVP](API_3_02.ipynb)| 
 |02|  03/11/2025 |Á Fazer|[MVP](API-3_TRF.ipynb)| 
-|03| 17/11/2025  |Á Fazer|[MVP] |
+|03| 24/11/2025  |Á Fazer|[MVP] |
 |Feira de Soluções|04/12/2025|Á Fazer|[MVP] | 
