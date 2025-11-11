@@ -41,7 +41,18 @@ O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada base
 * [![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-f65314)](#)
 
 # Backlog do Produto
-<img width="595" height="618" alt="i" src="https://github.com/user-attachments/assets/19b0e838-055a-45bc-a382-b804767bcdba" />
+
+| Rank | Prioridade | User Story | Estimativa (Horas por Semana) | Sprint |
+|------|-------------|-------------|-------------------------------|---------|
+| 1 | Média | Como especialista de segurança viária, quero mostrar um relatório sobre as tecnologias existentes que ajudem a monitorar e reduzir os acidentes nas rotas, para que possamos tomar decisões mais inteligentes, cortar custos e garantir operações mais seguras e eficientes. | 5h | 1 |
+| 2 | Alta | Como especialista de segurança viária, quero visualizar tabelas de evolução anual de sinistros, indicadores de taxa de mortalidade do banco de dados da PRF (Polícia Rodoviária Federal). | 3h | 1 |
+| 3 | Baixa | Como especialista de segurança viária, quero receber a cada sprint um relatório técnico de análise do projeto (GitHub, Jira, detalhes dos membros, relatórios do projeto). | 5h | 1 |
+| 4 | Alta | Como especialista de segurança viária, quero um dashboard em Power BI, com dados tratados em Python, que mostre acidentes, evolução anual e causas de 2015 a 2024 nas bases de dados integradas PRF, DATASUS, RENAEST e IBGE. | 10h | 2 |
+| 5 | Média | Como especialista de segurança viária, quero um dashboard que mostre um top10 de estados e as principais rodovias e top5 veículos. | 8h | 2 |
+| 6 | Baixa | Como estudante de logística (Scrum Master), pretendo passar a cada sprint um relatório sobre os desenvolvimentos dos membros. | 5h | 2 |
+| 7 | Alta | Como especialista de segurança viária, quero que os dados estejam organizados por categorias como sinistros fatais e não fatais, tipos de transportes no trânsito, estados e menores índices de sinistros. | 3h | 3 |
+| 8 | Alta | Como especialista de segurança viária, quero visualizar informações de quantidades de frotas de veículos por município com bases nas informações obtidas pela Renaest. | 5h | 3 |
+
 
 # Relatório
 
