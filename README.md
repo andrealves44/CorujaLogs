@@ -1,6 +1,24 @@
 # CorujaLog´s 3ºSemestre
 # Índice
 
+ Aprendizado por Projeto Integrado (API)
+
+Este projeto utiliza a **Metodologia API** e o framework **SCRUM** para simular um ambiente de desenvolvimento real.  
+O foco principal é **entregar valor** e desenvolver as competências essenciais:
+
+- 💡 **Proatividade**  
+- 🤝 **Colaboração**  
+- 🚀 **Autonomia**  
+- 🎯 **Entrega de Resultados**
+
+---
+
+📚 **Objetivo:**  
+Promover o aprendizado prático por meio da aplicação de conhecimentos em situações reais, estimulando o trabalho em equipe e a resolução de problemas.
+
+**Metodologia:**  
+O projeto é desenvolvido seguindo os princípios do **SCRUM**, com sprints, reuniões de acompanhamento e entregas incrementais.
+
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
