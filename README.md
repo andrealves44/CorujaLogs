@@ -105,9 +105,4 @@ Sprint | Previsão | Status| Histórico|
 |01 | 30/09/2025 |Feito| [MVP](API_3_02.ipynb)| 
 |02|  03/11/2025 |Feito|[MVP](API-3_TRF.ipynb)| 
 |03| 24/11/2025  |Á Fazer|[MVP] |
-|Feira de Soluções|04/12/2025|Á Fazer|[MVP] | 
-
-
-### 📄 Documentação do Projeto
-
-* [MVP.pdf - Dashboard de Segurança Viária] (https://raw.githubusercontent.com/andrealves44/CorujaLogs/principal/MVP.pdf)
+|Feira de Soluções|04/12/2025|Á Fazer|[MVP] |
