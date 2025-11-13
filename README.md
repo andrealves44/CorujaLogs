@@ -106,3 +106,4 @@ Sprint | Previsão | Status| Histórico|
 |02|  03/11/2025 |Feito|[MVP](API-3_TRF.ipynb)| 
 |03| 24/11/2025  |Á Fazer|[MVP] |
 |Feira de Soluções|04/12/2025|Á Fazer|[MVP] | 
+[MPV](MPV.pdf)
