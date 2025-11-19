@@ -91,9 +91,9 @@ O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada base
 - [x] Revisão e Ajustes.
       
 ## Sprint 3
-- [ ] Correção de dados conforme comentários do cliente;
-- [ ] Entrega do protótipo final do projeto;
-- [ ] Escolha cores e fontes;
+- [x] Correção de dados conforme comentários do cliente;
+- [x] Entrega do protótipo final do projeto;
+- [x] Escolha cores e fontes;
 - [ ] Teste e revise;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
