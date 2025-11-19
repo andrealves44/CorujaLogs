@@ -104,5 +104,5 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |01 | 30/09/2025 |Feito| [MVP](API_3_02.ipynb)| 
 |02|  03/11/2025 |Feito|[MVP](API-3_TRF.ipynb)| 
-|03| 28/11/2025  |Á Fazer|[MVP](MVP.pdf) |
+|03| 28/11/2025  |Á Fazer|[MVP](https://github.com/andrealves44/CorujaLogs/blob/main/MVP.docx) |
 |Feira de Soluções|04/12/2025|Á Fazer|[MVP] |
