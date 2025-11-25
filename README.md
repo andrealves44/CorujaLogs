@@ -95,9 +95,9 @@ O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada base
 - [x] Correção de dados conforme comentários do cliente;
 - [x] Entrega do protótipo final do projeto;
 - [x] Escolha cores e fontes;
-- [ ] Teste e revise;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Teste e revise;
+- [x] Criação do vídeo;
+- [x] Finalize e aprovação.
 
 # Sprints
 
@@ -106,4 +106,6 @@ Sprint | Previsão | Status| Histórico|
 |01 | 30/09/2025 |Feito| [MVP](API_3_02.ipynb)| 
 |02|  03/11/2025 |Feito|[MVP](API-3_TRF.ipynb)| 
 |03| 28/11/2025  |Feito|[MVP](Correção_TRF.ipynb) |
-|Feira de Soluções|04/12/2025|Á Fazer|[MVP] |
+|Feira de Soluções|04/12/2025|Feito|[MVP](DASHBOARDOFICIALONSV.pbix)|
+
+
