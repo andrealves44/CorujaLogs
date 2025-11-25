@@ -73,6 +73,7 @@ O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada base
 
 
 # Relatório
+[Projeto API Segurança Viária.docx](https://github.com/user-attachments/files/23755478/Projeto.API.Seguranca.Viaria.docx)
 
 
 
