@@ -76,6 +76,8 @@ O objetivo do projeto é analisar os anos de 2015 a 2024 de forma integrada base
 # Relatório
 [Projeto API Segurança Viária.docx](https://github.com/user-attachments/files/23755478/Projeto.API.Seguranca.Viaria.docx)
 
+# Video de Apresentação do Projeto API - Coruja Log´s
+[![Assista ao vídeo](https://img.youtube.com/vi/8Fz8NxXhmtg/maxresdefault.jpg)](https://www.youtube.com/watch?v=8Fz8NxXhmtg)
 
 
 ## Sprint 1
